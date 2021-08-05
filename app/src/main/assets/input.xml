@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<Records>
+    <City id ="1">
+        <City-Name>Udupi</City-Name>
+        <Longitude>80</Longitude>
+        <Latitude>15</Latitude>
+        <Temperature>25</Temperature>
+        <Humidity>70%</Humidity>
+    </City>
+</Records>
